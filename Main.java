@@ -4,7 +4,7 @@ public class Main {
         int sum=0;
         for(int i=0;i<10;i++){
             System.out.println("Hai");
-            System.out.println(sum+i);
+            System.out.println(sum+i)
         }
     }
 }
